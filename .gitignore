@@ -2,3 +2,5 @@
 *.pdsprj*
 !*.pdsprj
 *build/
+*Debug/
+*Release/
